@@ -1,0 +1,41 @@
+```
+# PDF text extracts
+pdf_texts/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment files
+.env
+.env.local
+*.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+```
